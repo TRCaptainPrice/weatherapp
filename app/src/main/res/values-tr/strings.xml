@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="check_your_internet">Internet Baglantini Kontrol Et</string>
+    <string name="enter_city_name">Sehir Ismi Gir</string>
+    <string name="current_weather_condiation">Mevcut Hava Durumu</string>
+    <string name="condition">Durum</string>
+    <string name="win_speed">RUZHIZ</string>
+    <string name="cloud">BULUT</string>
+    <string name="humidity">NEM</string>
+    <string name="language">Dil</string>
+
+</resources>
